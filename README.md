@@ -28,7 +28,7 @@ An interactive Starbucks Analytics Dashboard built using **Microsoft Power BI** 
 
 ## 🖼️ Dashboard Preview
 
-![Starbucks Analytics Dashboard](https://github.com/meetkaur066-design/Starbucks_analysis_dashboard/blob/main/starbucks.PNG)
+![Starbucks Analytics Dashboard](https://github.com/manmeetkaur0212/Starbucks-Analysis-Dashboard/blob/main/starbucks.PNG)
 
 
 ## 🚀 Future Improvements
